@@ -5,6 +5,8 @@
 ## :toolbox: technology used : 
 
 ### Front-End :star_struck:
+* HTML
+* CSS
 * React JS  
 * Bootstrap 
 
