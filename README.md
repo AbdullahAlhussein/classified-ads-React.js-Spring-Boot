@@ -27,12 +27,14 @@
 
 ---
 
+<br>
 
 ## Home page
 ![image1](https://user-images.githubusercontent.com/70335592/194177400-2a96bb8c-6abd-45d0-b989-9ce2cd0c2ee9.png)
 
 ---
-<br>
+
+<br><br>
 
 ## Ads details page
 
@@ -41,21 +43,21 @@
 ![image2](https://user-images.githubusercontent.com/70335592/194177409-40b6db0a-be7c-4671-9cf5-84736b7f31c5.png)
 
 ---
-<br>
+<br><br>
 
 ## Sign up page
 
 ![image3](https://user-images.githubusercontent.com/70335592/194177413-a20f4bf0-8bb1-4bd9-b148-c2c389ef4ca1.png)
 
 ---
-<br>
+<br><br>
 
 ## Sign in page
 
 ![image4](https://user-images.githubusercontent.com/70335592/194177421-efa678e9-9fb0-45a7-bd6b-a40a25db9412.png)
 
 ---
-<br>
+<br><br>
 
 ## after sign in you can  
 
@@ -69,14 +71,14 @@
 ![image5](https://user-images.githubusercontent.com/70335592/194177424-d907367c-73f2-4eaa-b2fc-4f819ae3de6d.png)
 
 ---
-<br>
+<br><br>
 
 ## Add new ads page
 
 ![image6](https://user-images.githubusercontent.com/70335592/194177427-9f07835b-6466-4eb3-85f7-f3376ebe75fb.png)
 
 ---
-<br>
+<br><br>
 
 ## update account information page
 
@@ -85,7 +87,7 @@
 
 ---
 
-<br>
+<br><br>
 
 ### Good Luck <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
