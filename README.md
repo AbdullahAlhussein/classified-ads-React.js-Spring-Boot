@@ -1,4 +1,4 @@
-# classified ads C2C
+# classified ads Consumer to Consumer -> C2C 	:handshake:
 
 <br> <br>
 
