@@ -1,4 +1,4 @@
-# Classified Ads - Classified Ads - Full Stack web Application
+# Classified Ads - Full Stack web Application
 
 <br> <br>
 
