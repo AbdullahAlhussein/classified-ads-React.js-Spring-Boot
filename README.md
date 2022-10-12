@@ -70,9 +70,11 @@
 
 * Add new ads 
 * see all your ads
+* delete and update your ads
 * update password
 * update username
 * update phone number
+* delete account
 * log out
 
 ![image5](https://user-images.githubusercontent.com/70335592/194177424-d907367c-73f2-4eaa-b2fc-4f819ae3de6d.png)
